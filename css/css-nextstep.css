@@ -57,6 +57,10 @@ margin:0;
 padding:0
 }
 
+.mobile-only {
+display:none
+}
+
 p {
 margin-top:0
 }
@@ -76,6 +80,51 @@ margin-left:25px
 
 li {
 color:red
+}
+
+.tooltip-link {
+position:relative
+}
+
+#tooltip {
+position:absolute;
+z-index:99;
+font-size:14px;
+border-radius:0;
+-moz-border-radius:0;
+-webkit-border-radius:0;
+margin-left:0;
+width:300px;
+padding:15px;
+background:#333;
+border:1px solid gray;
+color:#fff;
+white-space:normal;
+font-weight:300;
+line-height:normal
+}
+
+div#tooltip:before {
+background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=detail-box-arrow.png) no-repeat;
+display:inline-block;
+content:"";
+position:absolute;
+left:5px;
+width:22px;
+height:11px;
+top:-11px
+}
+
+*html #tooltip .tipHeader {
+margin-bottom:-6px
+}
+
+#tooltip .tipBody {
+text-align:left
+}
+
+#tooltip .tipFooter {
+text-align:right
 }
 
 .social-share {
@@ -654,6 +703,151 @@ font-size:16px
 
 .agenda-box p {
 margin:0
+}
+
+.ns-agenda-track.day-one-box {
+padding:15px
+}
+
+.ns-agenda-track.day-one .span10 {
+margin-left:0
+}
+
+.day-one-box {
+margin:0 15px
+}
+
+.day-one-box.details {
+margin-left:0;
+color:#333
+}
+
+.ns-agenda-track.day-one {
+padding-top:15px;
+padding-bottom:5px
+}
+
+.day-one-box.details h5 {
+margin-bottom:0
+}
+
+.ns-agenda-track.day-one .row {
+margin-bottom:10px
+}
+
+.ns-agenda-track-col {
+width:320px;
+margin-left:10px
+}
+
+.ns-agenda-track-col.first {
+margin-left:28px
+}
+
+.ns-agenda-track {
+background-color:#e6e6e6
+}
+
+.track-name {
+background-color:#aaa;
+color:#fff;
+text-align:center;
+padding:10px;
+line-height:18px;
+z-index:10;
+padding-top:17px;
+position:relative
+}
+
+.track-name-left-arrow.osicon-arrow-left {
+display:none
+}
+
+.track-name-right-arrow.osicon-arrow-right {
+display:none
+}
+
+.dark-zone.agenda {
+margin-bottom:10px
+}
+
+.track-name p {
+margin-bottom:0
+}
+
+.session-hour {
+background-color:#c20;
+text-align:center;
+height:25px;
+line-height:25px
+}
+
+.session-hour.no-hour {
+background-color:#ccc
+}
+
+.session-details {
+padding:10px;
+color:#333
+}
+
+.session-details a {
+color:#c20;
+font-weight:600
+}
+
+.session-presenters .media {
+padding:10px 0 0
+}
+
+.session-presenters img.media-object {
+width:60px;
+height:60px;
+border:3px solid #ccc;
+margin:0
+}
+
+.session-presenters p.media-heading {
+font-weight:800
+}
+
+.session-presenters .media p.media-heading {
+margin:0;
+line-height:16px
+}
+
+.session-presenters .media {
+margin:0
+}
+
+.session-details h5 {
+margin-bottom:10px;
+line-height:20px
+}
+
+.session-break {
+background-color:#333;
+color:#fff;
+text-align:center;
+padding:10px;
+line-height:18px;
+text-transform:uppercase
+}
+
+.session-break p {
+margin-bottom:0
+}
+
+.session-wrapup {
+background-color:#c20;
+color:#fff;
+text-align:center;
+padding:10px;
+line-height:18px
+}
+
+.session-wrapup p {
+margin-bottom:0
 }
 
 .Header_Menu,.Application_Menu {

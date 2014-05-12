@@ -693,6 +693,11 @@ color:#333;
 padding-top:0
 }
 
+.media-body p:nth-child(2) {
+padding-bottom:0;
+margin-bottom:0
+}
+
 .agenda-box {
 background-color:#fff;
 color:#333;
@@ -711,6 +716,10 @@ padding:15px
 
 .ns-agenda-track.day-one .span10 {
 margin-left:0
+}
+
+p.media-heading a span.osicon-linkedin {
+color:#0e76a8
 }
 
 .day-one-box {
@@ -830,8 +839,7 @@ background-color:#333;
 color:#fff;
 text-align:center;
 padding:10px;
-line-height:18px;
-text-transform:uppercase
+line-height:18px
 }
 
 .session-break p {
@@ -848,6 +856,70 @@ line-height:18px
 
 .session-wrapup p {
 margin-bottom:0
+}
+
+.sponsors-lightbox {
+background-color:#fff;
+color:#333;
+padding-bottom:30px;
+margin-bottom:30px
+}
+
+.sponsor-detail-box {
+padding:34px 0;
+padding-bottom:0
+}
+
+.sponsor-detail-box.sponsor-detail-box-right {
+padding-right:30px;
+padding-left:20px
+}
+
+.sponsor-detail-box.sponsor-detail-box-left {
+padding-left:30px;
+padding-right:20px
+}
+
+.sponsor-detail-box-bottom {
+padding:30px;
+padding-bottom:0
+}
+
+.sponsor-detail-box-bottom.sponsor-detail-box-bottom-center {
+padding-left:0;
+padding-right:0
+}
+
+.sponsor-detail-box.second-row {
+padding-top:10px
+}
+
+.sponsor-detail-box .logo-holder {
+height:50px;
+line-height:50px;
+vertical-align:bottom;
+position:relative;
+margin-bottom:20px
+}
+
+.sponsor-detail-box-bottom .logo-holder {
+height:55px;
+line-height:90px;
+vertical-align:bottom;
+position:relative;
+margin-bottom:20px
+}
+
+.sponsor-detail-box .logo-holder img {
+height:auto;
+position:absolute;
+bottom:0
+}
+
+.sponsor-detail-box-bottom .logo-holder img {
+height:auto;
+bottom:0;
+position:absolute
 }
 
 .Header_Menu,.Application_Menu {

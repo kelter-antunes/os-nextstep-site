@@ -555,7 +555,6 @@ top:0
 }
 
 #content {
-height:100%;
 padding-top:100px
 }
 
@@ -688,7 +687,7 @@ text-align:center
 width:520px
 }
 
-.media-body > h4 {
+.media-body > h4,.media-body > h4 a {
 color:#333;
 padding-top:0
 }
@@ -1202,4 +1201,165 @@ overflow:hidden
 
 .gc-bubbleDefault,.pls-container {
 display:none!important
+}
+
+.love-agile-h {
+background-image:url(/CommunityBaseTheme/img/icons.png?17651);
+display:inline-block;
+background-position:-2px -1190px;
+background-repeat:no-repeat;
+text-indent:-9990px;
+width:14px
+}
+
+.love-agile-o {
+background-image:url(/CommunityBaseTheme/img/icons.png?17651);
+display:inline-block;
+background-position:-38px -1190px;
+background-repeat:no-repeat;
+text-indent:-9990px;
+width:14px
+}
+
+.love-agile-h:hover {
+background-position:-2px -1209px
+}
+
+.love-agile-o:hover {
+background-position:-38px -1209px
+}
+
+.footer-site {
+color:#999;
+padding:25px 0;
+background:#1A1A1A;
+border-right:0;
+border-left:0;
+line-height:22px;
+overflow:hidden;
+position:relative
+}
+
+.footer-landscape {
+background-image:url(/CommunityBaseTheme/img/footer.png?17651);
+height:52px;
+background-repeat:no-repeat;
+background-position:top;
+margin-top:125px
+}
+
+.footer-section-wrapper {
+margin:0 auto;
+width:100%;
+overflow:hidden
+}
+
+.footer-section {
+margin-top:5px;
+width:25%;
+float:left
+}
+
+.footer-section-title {
+margin:0 0 12px;
+font-size:16px;
+color:#fff
+}
+
+.footer-section-link a:link,.footer-section-link a:visited {
+font-size:13px;
+text-decoration:none;
+cursor:pointer;
+color:#999
+}
+
+.footer-section-link a:hover {
+color:#c30
+}
+
+.footer-copy {
+margin-top:10px;
+font-size:10px
+}
+
+.footer-copy a:link,.footer-copy a:visited {
+margin-right:15px;
+cursor:pointer;
+color:#999
+}
+
+.footer-copy a:hover {
+color:#c30
+}
+
+.footer.social-icons a {
+font-size:14px;
+text-decoration:none;
+color:#ccc;
+border:none;
+-webkit-transition:all ease-in-out .15s;
+-moz-transition:all ease-in-out .15s;
+white-space:nowrap;
+text-overflow:ellipsis;
+width:308px;
+display:block;
+overflow:hidden
+}
+
+ul.footer.social-icons li {
+display:inline-block
+}
+
+ul.footer.social-icons {
+margin-top:27px
+}
+
+.footer a.twitter,.footer a.facebook,.footer a.google,.footer a.linkedin {
+background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=icons&v=26072013) no-repeat;
+width:21px;
+height:21px;
+text-indent:-9999px;
+display:inline-block
+}
+
+.footer a.twitter {
+background-position:-29px -551px
+}
+
+.footer a:hover.twitter {
+background-position:-29px -581px
+}
+
+.footer a.facebook {
+background-position:-1px -551px
+}
+
+.footer a:hover.facebook {
+background-position:-1px -581px
+}
+
+.footer a.google {
+background-position:-29px -611px
+}
+
+.footer a:hover.google {
+background-position:-29px -641px
+}
+
+.footer a.linkedin {
+background-position:-1px -611px
+}
+
+.footer a:hover.linkedin {
+background-position:-1px -641px
+}
+
+.footer.social-icons {
+float:right;
+margin-top:10px!important
+}
+
+.footer.social-icons a:link {
+margin-right:0;
+margin-left:10px
 }

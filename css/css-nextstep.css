@@ -1106,6 +1106,7 @@ margin:0
 }
 
 .osicon-search {
+display:none;
 font-size:18px;
 padding:16px
 }

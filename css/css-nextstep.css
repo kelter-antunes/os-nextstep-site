@@ -1618,7 +1618,7 @@ a.fancybox-expand {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 91043;
+    z-index: 91043999;
     position: fixed;
     outline: 0!important;
     -webkit-backface-visibility: hidden
@@ -1649,7 +1649,7 @@ a.fancybox-expand {
     vertical-align: middle;
     margin: 0 auto;
     text-align: left;
-    z-index: 91045;
+    z-index: 910459999;
     height: 100%
 }
 .mfp-ajax-holder .mfp-content, .mfp-inline-holder .mfp-content {
@@ -2090,21 +2090,14 @@ a.magnific_popup-close, a.magnific_popup-next, a.magnific_popup-prev {
     font-weight: 700;
     margin-left: 26px
 }
-.magpopup a.gotomagnific {
-    /* display:none */
-}
 .magpopup:hover a.gotomagnific {
     display: block
 }
 .edit_content_link {
-    /* display:none; */
-    
     position: absolute;
     top: 20px;
     left: 20px;
     z-index: 666;
-    /* color:#b22222; */
-    
     font-weight: 700;
     font-size: 14px
 }

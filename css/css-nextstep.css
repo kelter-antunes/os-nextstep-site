@@ -2405,7 +2405,7 @@ a.magnific_popup-prev, a.magnific_popup-close, a.magnific_popup-next {
     margin-left: -300px;
     margin-top: 5px;
     padding-bottom: 5px
-}
+} 
 .mfp-ie7 .mfp-container {
     padding: 0
 }
@@ -2418,7 +2418,6 @@ a.magnific_popup-prev, a.magnific_popup-close, a.magnific_popup-next {
     padding-top: 0
 }
 /*CMS_BackOffice - ICE Styles*/
-
 .ICE_Text {
     position: absolute;
     font-size: 15px;
@@ -2442,3 +2441,4 @@ a.magnific_popup-prev, a.magnific_popup-close, a.magnific_popup-next {
     font-weight: bold;
     font-size: 14px;
 }
+.a{color: white}

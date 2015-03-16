@@ -477,7 +477,7 @@ div#tooltip:before {
 }
 .dark-zone {
     margin-bottom: 50px;
-    color: #ecf0f1
+    color: black;
 }
 .dark-zone li span {
     color: #fff

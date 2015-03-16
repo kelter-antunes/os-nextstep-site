@@ -3,7 +3,8 @@
 }
 body {
     -webkit-overflow-scrolling: touch;
-    background: url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-pattern)
+    /*background: url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-pattern)*/
+    background-color: #CCC;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: myriad-pro, Arial, sans-serif;
@@ -418,8 +419,8 @@ div#tooltip:before {
     position: fixed
 }
 .header {
-    background: #c20;
-    height: 50px;
+    background: black;
+    height: 60px;
     position: relative;
     border-radius: 0 0 3px 3px
 }

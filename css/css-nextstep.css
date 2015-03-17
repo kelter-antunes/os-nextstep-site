@@ -899,7 +899,7 @@ a.Menu_SubMenuItem, a.Menu_SubMenuItem:hover, a.Menu_SubMenuItem:link, a.Menu_Su
     right: 10px;
     background-color: #000;
     height: 35px;
-    padding-top: 15px;
+    padding-top: 20px;
     position: absolute;
     top: 0
 }

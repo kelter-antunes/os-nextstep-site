@@ -44,7 +44,7 @@ display:block
 }
 
 #content {
-padding-top:75px
+padding-top:60px
 }
 
 #WebForm1 > div.container {
@@ -56,7 +56,7 @@ display:none
 }
 
 .fixed-navigation {
-height:50px;
+height:60px;
 background-color:black;
 width:100%
 }

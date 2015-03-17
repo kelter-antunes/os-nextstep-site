@@ -345,6 +345,10 @@ display:block
 padding-top:70px
 }
 
+.dark-zone .container{
+	padding: 0 25px;
+}
+
 .session-presenters .pull-left {
 float:left
 }

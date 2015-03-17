@@ -61,6 +61,11 @@ background-color:black;
 width:100%
 }
 
+.logo-img{
+top: 0px;
+left: 0px;
+}
+
 .logo {
 margin-left:15px;
 max-width:83px;
@@ -68,6 +73,7 @@ top:50%;
 position:absolute;
 margin-top:-17px
 }
+
 
 .search-overlay {
 top:0;

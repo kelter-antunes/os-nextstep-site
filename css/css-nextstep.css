@@ -470,16 +470,15 @@ div#tooltip:before {
     width: 100%
 }
 .logo-img {
-    position: absolute;
     top: 15px;
     left: 35px;
+    position: absolute;
 }
 #content {
     padding-top: 90px
 }
 .dark-zone {
     margin-bottom: 40px;
-    color: black;
 }
 .dark-zone li span {
     color: #fff

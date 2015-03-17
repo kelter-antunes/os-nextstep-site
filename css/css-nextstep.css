@@ -907,7 +907,7 @@ a.Menu_SubMenuItem, a.Menu_SubMenuItem:hover, a.Menu_SubMenuItem:link, a.Menu_Su
     color: #ecf0f1;
     font-size: 20px;
     padding: 15px;
-    background-color: #c20;
+    background-color: black;
     margin: 0
 }
 .osicon-search {

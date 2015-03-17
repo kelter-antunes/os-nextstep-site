@@ -420,7 +420,7 @@ div#tooltip:before {
 }
 .header {
     background: black;
-    height: 60px;
+    height: 65px;
     position: relative;
     border-radius: 0 0 3px 3px
 }
@@ -430,7 +430,8 @@ div#tooltip:before {
     display: inline-block;
     text-align: justify;
     float: left;
-    margin-left: 15px
+    margin-left: 15px;
+    margin-top:8px;
 }
 .header ul:after {
     content: '';

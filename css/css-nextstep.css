@@ -477,7 +477,7 @@ div#tooltip:before {
     padding-top: 90px
 }
 .dark-zone {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     color: black;
 }
 .dark-zone li span {
@@ -485,8 +485,8 @@ div#tooltip:before {
 }
 .light-zone {
     background: #FFF;
-    padding-top: 30px;
-    padding-bottom: 30px
+    padding-top: 40px;
+    padding-bottom: 50px
 }
 .text-block h2 {
     margin-bottom: 10px

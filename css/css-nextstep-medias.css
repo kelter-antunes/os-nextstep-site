@@ -345,7 +345,8 @@ display:block
 padding-top:70px
 }
 
-.dark-zone .container{
+.dark-zone .container,
+.light-zone .container{
 	padding: 0 25px;
 }
 

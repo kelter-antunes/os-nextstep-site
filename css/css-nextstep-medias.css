@@ -400,6 +400,10 @@ padding-left:10px;
 padding-right:10px
 }
 
+.ns-register-form{
+	padding: 0 20px 2px;
+}
+
 .m-carousel {
 position:relative;
 overflow:hidden

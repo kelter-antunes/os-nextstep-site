@@ -35,10 +35,11 @@ font-weight:400;
 margin-bottom:10px
 }
 
-.text-block{
+.dark-zone .text-block,
+.light-zone .text-block{
 padding: 0 25px;
 }
-  
+
 .hide-in-mobile {
 display:none
 }

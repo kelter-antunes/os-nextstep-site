@@ -514,14 +514,16 @@ div#tooltip:before {
     padding: 30px;
     background-color: rgba(0, 0, 0, .7);
     color: #fff;
-    margin-left: 35px
+    margin-left: 35px;
+    margin-top: 30px;
 }
 .box-overlay>.text-block>h2 {
     margin-bottom: 10px
 }
 .venue-bg {
     background: url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-venue-back) top center no-repeat #2761c2;
-    height: 330px!important;
+    background-size: 1720px;
+    height: 370px!important;
     margin-bottom: 40px
 }
 .ns-venue-bg-color {

@@ -564,7 +564,7 @@ div#tooltip:before {
     display: inline-block
 }
 .past-editions-lightbox {
-    background-color: #ECF0F1;
+    background-color: #FFF;
     color: #333;
     margin-bottom: 20px
 }

@@ -475,7 +475,7 @@ div#tooltip:before {
     position: absolute;
 }
 #content {
-    padding-top: 90px
+    padding-top: 95px
 }
 .dark-zone {
     margin-bottom: 40px;
@@ -502,11 +502,13 @@ div#tooltip:before {
     margin-top: 26px
 }
 .register-logo {
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    margin-top: 40px;
 }
 .ns-register-form {
     background-color: #3D3D3D;
-    padding: 0 53px 20px
+    padding: 0 53px 20px;
+    margin-top:40px;
 }
 .box-overlay {
     padding: 30px;

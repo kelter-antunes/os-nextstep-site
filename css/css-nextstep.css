@@ -445,8 +445,8 @@ div#tooltip:before {
     border-bottom: 3px solid #fff
 }
 .header ul a {
-    margin-right: 32px;
-    margin-left: 32px;
+    margin-right: 24px;
+    margin-left: 24px;
     padding-top: 15px;
     display: block;
     line-height: 18px;

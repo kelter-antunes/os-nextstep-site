@@ -9,7 +9,6 @@
  * See README for details
  *
  */
-
 (function($) {
     $.fn.stickyScroll = function(options) {
 

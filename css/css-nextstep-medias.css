@@ -96,6 +96,8 @@ height:470px!important;
 background-size:cover
 }
 
+
+
 .hero-zone {
 margin-bottom:45px
 }
@@ -362,6 +364,10 @@ float:left
 
 .dark-zone.agenda.agenda-mobile {
 padding-top:0
+}
+
+.agenda-box{
+	margin:0;
 }
 
 .agenda-mobile-box {

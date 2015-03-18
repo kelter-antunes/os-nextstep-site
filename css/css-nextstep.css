@@ -536,7 +536,7 @@ div#tooltip:before {
     z-index: -1
 }
 .google-maps-border {
-    border: 5px solid;
+    border: 5px solid #CCC;
     margin-bottom: 50px
 }
 .google-maps-border a {

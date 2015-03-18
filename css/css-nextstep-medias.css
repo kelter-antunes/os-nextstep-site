@@ -35,6 +35,10 @@ font-weight:400;
 margin-bottom:10px
 }
 
+.text-block{
+padding: 0 25px;
+}
+  
 .hide-in-mobile {
 display:none
 }

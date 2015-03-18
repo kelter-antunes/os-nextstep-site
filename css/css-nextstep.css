@@ -592,8 +592,9 @@ div#tooltip:before {
     background-color: #fff;
     color: #333;
     text-align: center;
-    padding: 20px;
-    font-size: 16px
+    padding: 20px 0;
+    font-size: 16px;
+    margin: 0px 60px;
 }
 .agenda-box p {
     margin: 0
@@ -647,7 +648,8 @@ p.media-heading a span.osicon-linkedin {
     display: none
 }
 .dark-zone.agenda {
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    margin-top: 20px;
 }
 .track-name p {
     margin-bottom: 0

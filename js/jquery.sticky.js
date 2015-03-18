@@ -72,7 +72,7 @@
                     el.data('sticky-id', id);
 
                     win.bind('scroll.stickyscroll-' + id, function() {
-                        var top = $(document).scrollTop() + 50,
+                        var top = $(document).scrollTop() + 65,
                             bottom = $(document).height() - top - height;
 
                         if (bottom <= settings.bottomBoundary) {
@@ -84,7 +84,7 @@
                                 .addClass('sticky-stopped');
                         } else if (top > settings.topBoundary) {
                             el.offset({
-                                top: $(window).scrollTop() + 50
+                                top: $(window).scrollTop() + 65
                             })
                                 .removeClass('sticky-stopped')
                                 .removeClass('sticky-inactive')

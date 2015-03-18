@@ -545,7 +545,7 @@ div#tooltip:before {
     margin-top: 5px
 }
 .past-edition-border {
-    border: 5px solid;
+    border: 5px solid #aaa;
     margin-bottom: 20px
 }
 .past-edition-border img {

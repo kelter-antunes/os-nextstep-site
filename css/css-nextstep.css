@@ -651,6 +651,11 @@ p.media-heading a span.osicon-linkedin {
     margin-bottom: 10px;
     margin-top: 20px;
 }
+
+.track-name-wrapper{
+    background-color:#FFF;
+}
+
 .track-name p {
     margin-bottom: 0
 }

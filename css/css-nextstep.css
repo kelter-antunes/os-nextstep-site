@@ -663,7 +663,9 @@ p.media-heading a span.osicon-linkedin {
     background-color: #c20;
     text-align: center;
     height: 25px;
-    line-height: 25px
+    line-height: 25px;
+    color: #FFF;
+    font-weight:600;
 }
 .session-hour.no-hour {
     background-color: #ccc

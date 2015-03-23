@@ -93,27 +93,14 @@ z-index:99999
 
 .box-overlay {
 margin-left:0
+padding: 10px 20px;
 }
-
-.venue-bg {
-background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-venue-back-m);
-height:470px!important;
-background-size:cover
-}
-
 
 
 .hero-zone {
 margin-bottom:45px
 }
 
-.ns-venue-bg-color {
-height:520px;
-background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-venue-back);
-background-repeat:no-repeat;
-background-position:top center;
-background-size:cover
-}
 
 .past-editions-links a.osbtn {
 margin-right:0;

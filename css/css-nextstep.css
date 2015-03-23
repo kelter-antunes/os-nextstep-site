@@ -470,7 +470,7 @@ div#tooltip:before {
     width: 100%
 }
 .logo-img {
-    top: 15px;
+    top: 12px;
     left: 35px;
     position: absolute;
 }
@@ -520,12 +520,7 @@ div#tooltip:before {
 .box-overlay>.text-block>h2 {
     margin-bottom: 10px
 }
-.venue-bg {
-    background: url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=ns-venue-back) top center no-repeat #2761c2;
-    background-size: 1720px;
-    height: 370px!important;
-    margin-bottom: 40px
-}
+
 .ns-venue-bg-color {
     position: absolute;
     top: 0;

@@ -422,7 +422,6 @@ div#tooltip:before {
     background: black;
     height: 65px;
     position: relative;
-    border-radius: 0 0 3px 3px
 }
 .header ul {
     list-style-type: none;

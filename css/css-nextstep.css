@@ -501,8 +501,10 @@ div#tooltip:before {
     margin-top: 26px
 }
 .register-logo {
-    margin-bottom: 50px;
-    margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin:0 auto;
+    background-color: black;
 }
 .ns-register-form {
     background-color: #3D3D3D;

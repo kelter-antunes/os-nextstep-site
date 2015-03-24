@@ -505,6 +505,7 @@ div#tooltip:before {
     display: block;
     margin:0 auto;
     background-color: black;
+    margin-bottom: 30px;
 }
 .ns-register-form {
     background-color: #3D3D3D;

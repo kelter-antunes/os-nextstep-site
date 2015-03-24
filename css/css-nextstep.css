@@ -508,7 +508,7 @@ div#tooltip:before {
     margin-bottom: 30px;
 }
 .ns-register-form {
-    background-color: #3D3D3D;
+    background-color: #ccc;
     padding: 30px 0px;
     margin-top:40px;
 }
@@ -700,7 +700,7 @@ p.media-heading a span.osicon-linkedin {
     line-height: 20px
 }
 .session-break {
-    background-color: #333;
+    background-color: #ccc;
     color: #fff;
     text-align: center;
     padding: 10px;

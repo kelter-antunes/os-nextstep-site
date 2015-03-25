@@ -477,7 +477,7 @@ div#tooltip:before {
 }
 #content {
     padding-top: 65px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .dark-zone {
     margin-bottom: 40px;
@@ -2117,6 +2117,3 @@ a.magnific_popup-close, a.magnific_popup-next, a.magnific_popup-prev {
     font-size: 14px
 }
 
-form.mktoForm {
-color: black!important;
-}

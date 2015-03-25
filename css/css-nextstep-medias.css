@@ -782,11 +782,12 @@ height:400px
 height:290px!important
 }
 
-/*
+
 .home > img:nth-child(1) {
-display:none
+	/*display:none;*/
+	width:70%;
 }
-*/
+
 .home > img:nth-child(2) {
 display:block;
 width:80%;

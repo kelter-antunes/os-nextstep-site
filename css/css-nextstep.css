@@ -2117,6 +2117,6 @@ a.magnific_popup-close, a.magnific_popup-next, a.magnific_popup-prev {
     font-size: 14px
 }
 
-.mktoForm label {
+.mktoForm .mktoLabel {
     color: black;
 }

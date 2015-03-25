@@ -476,7 +476,8 @@ div#tooltip:before {
     position: absolute;
 }
 #content {
-    padding-top: 65px
+    padding-top: 65px;
+    margin-bottom: 20px;
 }
 .dark-zone {
     margin-bottom: 40px;

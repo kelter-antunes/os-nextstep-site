@@ -2117,6 +2117,9 @@ a.magnific_popup-close, a.magnific_popup-next, a.magnific_popup-prev {
     font-size: 14px
 }
 
-.title-top20{
+.dark-zone > .span12 > h1 {
+    font-size: 30px;
+    margin-bottom: 40px;
+    line-height: 32px;
     margin-top:20px;
 }

@@ -296,6 +296,16 @@ background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=hotel-map);
 height:100px
 }
 
+.meo-arena-map{
+	background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=meo-arena-map);
+	height:100px
+}
+
+.vip-hotel-map{
+	background:url(/CMS_BackOffice/ResourceLink.aspx?ResourceName=vip-hotel-map);
+	height:100px
+}
+
 .ns-agenda-track-col.first {
 margin-left:0
 }
@@ -783,14 +793,15 @@ height:290px!important
 }
 
 
-.home > img:nth-child(1) {
+.home > img {
 	/*display:none;*/
 	width:70%;
 }
-
+/*
 .home > img:nth-child(2) {
 display:block;
 width:80%;
 margin:0 auto
 }
+*/
 }

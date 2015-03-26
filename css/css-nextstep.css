@@ -463,7 +463,7 @@ div#tooltip:before {
 }
 .logo {
     max-width: 150px;
-    display: table;
+    display: table-cell;
     line-height: 65px;
     height: 65px;
     float: left;

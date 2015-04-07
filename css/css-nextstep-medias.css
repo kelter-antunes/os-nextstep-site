@@ -777,6 +777,8 @@ padding:10px 0 0
 	color:#000;
 	margin-bottom:40px;
 	margin-top:40px;
+	line-height: 1.2em;
+	font-weight: 600;
 }
 
 .social-share-mobile {
@@ -839,7 +841,7 @@ padding:10px 0 0
     position: absolute;
     display: none;
     width: 55px;
-    left: 70px;
+    left: 90px;
     padding-right: 58px
 }
 .osflare-flyout.show .osflare-flyout-inner, .osflare-flyout:hover .osflare-flyout-inner {
@@ -875,19 +877,19 @@ padding:10px 0 0
 }
 .osflare-flyout[data-type=facebook]>.osflare-flyout-inner {
     z-index: 11;
-    top: 0
+    top: 150px;
 }
 .osflare-flyout[data-type=twitter]>.osflare-flyout-inner {
     z-index: 13;
-    top: 62px;
+    top: 212px;
 }
 .osflare-flyout[data-type=google]>.osflare-flyout-inner {
     z-index: 15;
-    top: 118px
+    top: 268px
 }
 .osflare-flyout[data-type=linkedin]>.osflare-flyout-inner {
     z-index: 17;
-    top: 175px;
+    top: 325px;
 }
 
 

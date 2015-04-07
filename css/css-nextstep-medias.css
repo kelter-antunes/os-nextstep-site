@@ -849,6 +849,8 @@ padding:10px 0 0
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
 }
 .osflare-flyout .osflare-iframe-wrapper {
     width: 60px;

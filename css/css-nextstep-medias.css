@@ -871,7 +871,7 @@ padding:10px 0 0
 }
 .osflare-flyout[data-type=twitter]>.osflare-flyout-inner {
     z-index: 13;
-    top: 45px
+    top: 62px
 }
 .osflare-flyout[data-type=google]>.osflare-flyout-inner {
     z-index: 15;

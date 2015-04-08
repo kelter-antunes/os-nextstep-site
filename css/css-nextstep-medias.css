@@ -895,8 +895,12 @@ padding:10px 0 0
     left: 232px;
 }
 
-
-
+.noscroll
+{
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
+}
 
 
 

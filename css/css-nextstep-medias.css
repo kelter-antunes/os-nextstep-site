@@ -897,8 +897,7 @@ padding:10px 0 0
 
 .noscroll
 {
-    position: fixed; 
-    overflow-y: scroll;
+    overflow: hidden;
     width: 100%;
 }
 

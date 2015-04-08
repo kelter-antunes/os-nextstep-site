@@ -786,8 +786,8 @@ padding:10px 0 0
     right: 0;
     left:0;
     top: 60px;
-    height:100%;
-    padding: 5px 25px;
+    height:280px;
+    padding: 5px 30px;
     background-color: #fff;
     -ms-box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .3);
     -o-box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .3);
@@ -803,12 +803,11 @@ padding:10px 0 0
     margin: 0;
     padding: 0;
     position:relative;
-    text-align:center;
 }
 .social-share-buttons span {
     padding-bottom: 5px;
     display: inline-block;
-    position: initial;
+    position: absolute;
 }
 .social-share-buttons>span[data-type=facebook] {
     z-index: 10;
@@ -816,17 +815,20 @@ padding:10px 0 0
 }
 .social-share-buttons span[data-type=twitter] {
     z-index: 12;
-    top: 62px;
+    left: 72px;
+	top: 0;
     color: #43b1fb
 }
 .social-share-buttons span[data-type=google] {
     z-index: 14;
-    top: 118px;
+    top: 0px;
+    left: 144px;
     color: #d84d2f
 }
 .social-share-buttons span[data-type=linkedin] {
     z-index: 16;
-    top: 175px;
+    top: 0px;
+    left: 216px;
     color: #0375b3
 }
 .osflare-flyout {
@@ -837,7 +839,7 @@ padding:10px 0 0
     display: table
 }
 .osflare-flyout .osflare-flyout-inner {
-    top: 0;
+    top: 212;
     position: absolute;
     display: none;
     width: 55px;

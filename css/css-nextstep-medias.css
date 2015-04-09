@@ -786,7 +786,7 @@ padding:10px 0 0
     right: 0;
     left:0;
     top: 60px;
-    height:280px;
+    height:210px;
     padding: 5px 30px;
     background-color: #fff;
     -ms-box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .3);
@@ -804,6 +804,22 @@ padding:10px 0 0
     padding: 0;
     position:relative;
 }
+
+a.addthis_button_facebook,
+a.addthis_button_twitter,
+a.addthis_button_google_plusone_badge,
+a.addthis_button_linkedin,{
+	position:absolute;
+	width:32px;
+}
+
+a.addthis_button_facebook{left:0;}
+a.addthis_button_twitter{left: 72px;}
+a.addthis_button_google_plusone_badge{left: 144px;}
+a.addthis_button_linkedin{left: 216px;}
+
+/*
+
 .social-share-buttons span {
     padding-bottom: 5px;
     display: inline-block;
@@ -894,6 +910,8 @@ padding:10px 0 0
     top: 206px;
     left: 232px;
 }
+
+*/
 
 .noscroll
 {

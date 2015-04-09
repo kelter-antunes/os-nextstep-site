@@ -782,7 +782,8 @@ padding:10px 0 0
 
 .slider.closed {
 	max-height: 0;
-	padding:0;
+	padding-top:0;
+	padding-bottom:0;
 }
 
 .social-title-mobile{

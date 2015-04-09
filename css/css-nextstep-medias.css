@@ -808,7 +808,7 @@ padding:10px 0 0
 a.addthis_button_facebook,
 a.addthis_button_twitter,
 a.addthis_button_google_plusone_badge,
-a.addthis_button_linkedin,{
+a.addthis_button_linkedin{
 	position:absolute;
 	width:32px;
 }

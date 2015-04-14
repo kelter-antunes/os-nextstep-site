@@ -817,6 +817,12 @@ padding:10px 0 0
     position:relative;
 }
 
+a.addthis_button_facebook{left:0;}
+a.addthis_button_twitter{left: 72px;}
+a.addthis_button_google_plusone_badge{left: 144px;}
+a.addthis_button_linkedin{left: 216px;}
+
+/*
 .addthis_toolbox a.addthis_button_facebook.at300b,
 .addthis_toolbox a.addthis_button_twitter.at300b,
 .addthis_toolbox a.addthis_button_google_plusone_badge.at300b,
@@ -827,11 +833,6 @@ padding:10px 0 0
 }
 
 
-a.addthis_button_facebook{left:0;}
-a.addthis_button_twitter{left: 72px;}
-a.addthis_button_google_plusone_badge{left: 144px;}
-a.addthis_button_linkedin{left: 216px;}
-
 .addthis_32x32_style .at4-icon{
   height: 32px!important;
   width: 36px!important;
@@ -841,6 +842,8 @@ a.addthis_button_linkedin{left: 216px;}
   height: 37px!important;
   width: 36px!important;
 }
+
+*/
 
 /*
 
